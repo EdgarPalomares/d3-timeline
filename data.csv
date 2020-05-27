@@ -1,0 +1,7 @@
+objeto,start,end,startLabel,endLabel,tipoAplicacion,timeline
+Prueba6,1000,1600,,,Aplicacion,Aplicacion
+Prueba1,800,1200,,,Aplicacion,Aplicacion
+Prueba2,700,1100,,,Web,Web
+Prueba3,850,1500,,,Oficina,Oficina
+Prueba4,1000,2000,,,TrabajoSinPC,TrabajoSinPC
+Prueba5,1300,2100,,,TrabajoSinPC,TrabajoSinPC
