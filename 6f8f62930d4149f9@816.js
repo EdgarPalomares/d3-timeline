@@ -201,7 +201,7 @@ d=> d < 0 ? `${-d}` : `${d}`
 require("d3@5")
 )});
   main.variable(observer("csv")).define("csv", ["d3"], function(d3){return(
-d3.csv("data.csv")
+d3.json("http://localhost/d3/data-json.php")
 )});
   main.variable(observer("data")).define("data", ["csv"], function(csv){return(
 csv.map(d=>{
